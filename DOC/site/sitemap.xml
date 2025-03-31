@@ -2,910 +2,854 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://localhost:8000/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/DNESP32S3/dnesp32s3/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3/dnesp32s3/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3/dnesp32s3/"/>
-    </url>
-    <url>
         <loc>https://localhost:8000/DNESP32S3M/dnesp32s3m/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/dnesp32s3m/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/dnesp32s3m/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/actuation/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/actuation/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/actuation/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LCD/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LCD/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LCD/lcd/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/lcd/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/lcd/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LCD/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LED/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LED/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LED/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LED/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/ACTUATION/LED/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LED/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/communication/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/communication/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/communication/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/main-control/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/main-control/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/main-control/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/fs/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/fs/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/fs/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MIDDLEWARE/middleware/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MIDDLEWARE/middleware/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/middleware/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MIDDLEWARE/ESP-DL/esp-dl/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MIDDLEWARE/ESP-DL/esp-dl/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/ESP-DL/esp-dl/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/MIDDLEWARE/ESP-DSP/esp-dsp/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MIDDLEWARE/ESP-DSP/esp-dsp/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/ESP-DSP/esp-dsp/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/PERCEPTION/perception/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/perception/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/perception/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/code/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/integration/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/note/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/DNESP32S3M/PROJECT/project/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PROJECT/project/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PROJECT/project/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/FKH743M2-IIT6/fkh743m2-iit6/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/KICK_START/ENVIRONMENT/environment/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/FKH743M2-IIT6/fkh743m2-iit6/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/FKH743M2-IIT6/fkh743m2-iit6/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ENVIRONMENT/environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ENVIRONMENT/environment/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/KICK_START/kick_start/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/KICK_START/HANDS-ON/hands-on/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/kick_start/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/kick_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/HANDS-ON/hands-on/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/HANDS-ON/hands-on/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/KICK_START/ESP32/ENVIRONMENT/environment/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/KICK_START/HARDWARE/hardware/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/ENVIRONMENT/environment/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/ENVIRONMENT/environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/HARDWARE/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/HARDWARE/hardware/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/KICK_START/ESP32/HANDS-ON/hands-on/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/KICK_START/TEMPLATE/template/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/HANDS-ON/hands-on/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/HANDS-ON/hands-on/"/>
-    </url>
-    <url>
-        <loc>https://localhost:8000/KICK_START/ESP32/HARDWARE/hardware/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/HARDWARE/hardware/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/HARDWARE/hardware/"/>
-    </url>
-    <url>
-        <loc>https://localhost:8000/KICK_START/ESP32/TEMPLATE/template/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/TEMPLATE/template/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/TEMPLATE/template/"/>
-    </url>
-    <url>
-        <loc>https://localhost:8000/KICK_START/STM32/stm32/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/STM32/stm32/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/STM32/stm32/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/TEMPLATE/template/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/TEMPLATE/template/"/>
     </url>
     <url>
         <loc>https://localhost:8000/RELEASE/release/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/RELEASE/release/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/RELEASE/release/"/>
     </url>
     <url>
         <loc>https://localhost:8000/ROADMAP/roadmap/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/ROADMAP/roadmap/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/ROADMAP/roadmap/"/>
     </url>
     <url>
         <loc>https://localhost:8000/blog/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/DNESP32S3/dnesp32s3/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3/dnesp32s3/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3/dnesp32s3/"/>
-    </url>
-    <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/dnesp32s3m/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/dnesp32s3m/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/dnesp32s3m/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/actuation/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/actuation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/actuation/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/KEY%28EXIT%29/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/KEY%28EXIT%29/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/lcd/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/lcd/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/lcd/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LCD/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LCD/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LED/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LED/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/ACTUATION/LED/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/ACTUATION/LED/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/communication/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/communication/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/communication/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/MQTT/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/MQTT/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/COMMUNICATION/WIFI/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/COMMUNICATION/WIFI/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/main-control/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/main-control/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/main-control/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/fs/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/fs/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/fs/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/FILE-SYSTEM/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/I2C/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/I2C/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RNG/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RNG/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/RTC/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/RTC/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SD-CARD/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SD-CARD/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/SPI/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/SPI/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TF-CARD/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TF-CARD/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MAIN-CONTROL/TIMER/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MAIN-CONTROL/TIMER/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/middleware/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/middleware/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MIDDLEWARE/middleware/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/ESP-DL/esp-dl/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/ESP-DL/esp-dl/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MIDDLEWARE/ESP-DL/esp-dl/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/ESP-DSP/esp-dsp/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/MIDDLEWARE/ESP-DSP/esp-dsp/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/MIDDLEWARE/ESP-DSP/esp-dsp/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/PERCEPTION/perception/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/perception/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/perception/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/code/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/code/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/code/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/integration/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/integration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/integration/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/note/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PERCEPTION/IMU-MPU6050/note/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PERCEPTION/IMU-MPU6050/note/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/DNESP32S3M/PROJECT/project/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/DNESP32S3M/PROJECT/project/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/DNESP32S3M/PROJECT/project/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/FKH743M2-IIT6/fkh743m2-iit6/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/zh/KICK_START/ENVIRONMENT/environment/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/FKH743M2-IIT6/fkh743m2-iit6/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/FKH743M2-IIT6/fkh743m2-iit6/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ENVIRONMENT/environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ENVIRONMENT/environment/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/KICK_START/kick_start/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/zh/KICK_START/HANDS-ON/hands-on/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/kick_start/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/kick_start/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/HANDS-ON/hands-on/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/HANDS-ON/hands-on/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/KICK_START/ESP32/ENVIRONMENT/environment/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/zh/KICK_START/HARDWARE/hardware/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/ENVIRONMENT/environment/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/ENVIRONMENT/environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/HARDWARE/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/HARDWARE/hardware/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/KICK_START/ESP32/HANDS-ON/hands-on/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <loc>https://localhost:8000/zh/KICK_START/TEMPLATE/template/</loc>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/HANDS-ON/hands-on/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/HANDS-ON/hands-on/"/>
-    </url>
-    <url>
-        <loc>https://localhost:8000/zh/KICK_START/ESP32/HARDWARE/hardware/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/HARDWARE/hardware/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/HARDWARE/hardware/"/>
-    </url>
-    <url>
-        <loc>https://localhost:8000/zh/KICK_START/ESP32/TEMPLATE/template/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/ESP32/TEMPLATE/template/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/ESP32/TEMPLATE/template/"/>
-    </url>
-    <url>
-        <loc>https://localhost:8000/zh/KICK_START/STM32/stm32/</loc>
-        <lastmod>2025-03-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/STM32/stm32/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/STM32/stm32/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/KICK_START/TEMPLATE/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/KICK_START/TEMPLATE/template/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/RELEASE/release/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/RELEASE/release/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/RELEASE/release/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/ROADMAP/roadmap/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/ROADMAP/roadmap/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/ROADMAP/roadmap/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/blog/</loc>
-        <lastmod>2025-03-28</lastmod>
+        <lastmod>2025-03-31</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>

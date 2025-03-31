@@ -4,11 +4,11 @@
 
 <div class="grid cards" markdown>
 
--   :simple-github:{ .lg .middle } __NexNode__
+-   :simple-github:{ .lg .middle } __LiftNode__
 
     ---
 
-    [:octicons-arrow-right-24: <a href="https://github.com/Shuaiwen-Cui/NexNode.git" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://github.com/Shuaiwen-Cui/LiftNode_ESP32.git" target="_blank"> Portal </a>](#)
 
 </div>
 
