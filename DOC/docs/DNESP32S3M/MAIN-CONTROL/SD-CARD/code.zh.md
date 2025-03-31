@@ -1,0 +1,371 @@
+# TF卡（SD卡）代码 
+
+## 组件架构
+
+```plaintext
+- driver
+    - spi_sdcard
+        - include
+            - spi_sdcard.h
+        - spi_sdcard.c
+        - CMakeLists.txt
+```
+
+## driver/spi_sdcard/CMakeLists.txt
+
+```cmake
+set(src_dirs
+    .
+)
+
+set(include_dirs
+    include
+)
+
+set(requires
+    driver
+    fatfs
+    vfs
+    sdmmc
+    spi
+)
+
+idf_component_register(SRC_DIRS ${src_dirs} INCLUDE_DIRS ${include_dirs} REQUIRES ${requires})
+```
+## spi_sdcard.h
+    
+```c
+/**
+ * @file spi_sdcard.h
+ * @author SHUAIWEN CUI (SHUAIWEN001@e.ntu.edu.sg)
+ * @brief This file is for SD card initialization and related functions
+ * @version 1.0
+ * @date 2024-11-19
+ * @copyright Copyright (c) 2024
+ * 
+ */
+
+#ifndef __SPI_SDCARD_H__
+#define __SPI_SDCARD_H__
+
+/* DEPENDENCIES */
+#include "esp_vfs_fat.h" // ESP32 VFS FAT
+#include "sdmmc_cmd.h" // ESP32 SDMMC
+
+// SD Card
+#define MOUNT_POINT     "/sdcard" 
+#define SD_MAX_CHAR_SIZE    64
+
+#define SD_PIN_NUM_CS    GPIO_NUM_2
+
+/* VARIABLES */
+extern sdmmc_card_t *card;
+
+/* FUNCTIONS */
+
+/**
+ * @brief Initialize the SD card
+ * @param None
+ * @retval esp_err_t
+ */
+esp_err_t sd_card_init(void);
+
+/**
+ * @brief Test file operations on the SD card
+ * @param None
+ * @retval esp_err_t
+ */
+esp_err_t sd_card_test_filesystem(void);
+
+/**
+ * @brief Unmount the File System and SPI Bus
+ * @param None
+ * @retval esp_err_t
+ */
+esp_err_t sd_card_unmount(void);
+#endif
+```
+
+## spi_sdcard.c
+
+```c
+/**
+ * @file spi_sdcard.c
+ * @author SHUAIWEN CUI (SHUAIWEN001@e.ntu.edu.sg)
+ * @brief This file is for SD card initialization and related functions
+ * @version 1.0
+ * @date 2024-11-19
+ * @copyright Copyright (c) 2024
+ *
+ */
+
+/* DEPENDENCIES */
+#include "spi_sdcard.h"
+
+/* VARIABLES */
+sdmmc_card_t *card;
+
+spi_device_handle_t MY_SD_Handle;
+
+const char *TAG_SD = "SD_CARD";
+const char mount_point[] = MOUNT_POINT; // modify the macro above to change the mount point
+
+/* FUNCTIONS */
+
+/**
+ * @brief Initialize the SD card
+ * ! Here, we assume that the SPI bus has been initialized before calling this function.
+ * @param None
+ * @retval esp_err_t
+ */
+esp_err_t sd_card_init(void)
+{
+    /* Result Indicator */
+    esp_err_t ret;
+
+    // Configure parameters for file system mounting
+    esp_vfs_fat_sdmmc_mount_config_t mount_config = {
+#ifdef CONFIG_FORMAT_IF_MOUNT_FAILED
+        .format_if_mount_failed = true,   // Format the card if mounting fails
+#else
+        .format_if_mount_failed = false,  // Do not format the card if mounting fails
+#endif // FORMAT_IF_MOUNT_FAILED
+        .max_files = 5,                   // Maximum number of files that can be open at the same time
+        .allocation_unit_size = 16 * 1024 // FAT allocation unit size
+    };
+
+    ESP_LOGI(TAG_SD, "Initializing SD card...");
+
+    ESP_LOGI(TAG_SD, "Configuring SPI Device for SD card...");
+
+    sdmmc_host_t host = SDSPI_HOST_DEFAULT();
+    /*spi_bus_config_t bus_cfg = {
+        .mosi_io_num = PIN_NUM_MOSI,
+        .miso_io_num = PIN_NUM_MISO,
+        .sclk_io_num = PIN_NUM_CLK,
+        .quadwp_io_num = -1,
+        .quadhd_io_num = -1,
+        .max_transfer_sz = 4000,
+    };*/
+
+    host.slot = SPI2_HOST; // Use SPI2 for SD card
+
+    // In SPI mode, since the SD card's maximum frequency is 25 MHz in SPI mode, the configured value must not exceed this limit. 
+    // The default frequency for SD-SPI in IDF is 20 MHz.
+
+    // If SPI2 has not been initialized, initialize it
+    /*ret = spi_bus_initialize(host.slot, &bus_cfg, SPI_DMA_CHAN);
+    if (ret != ESP_OK) {
+        ESP_LOGE(TAG, "Failed to initialize bus.");
+        return false;
+    }*/
+
+    // This initialization does not include card detection (CD) and write protection (WP) signals.
+    // If your board has these signals, modify slot_config.gpio_cd and slot_config.gpio_wp.
+    sdspi_device_config_t slot_config = SDSPI_DEVICE_CONFIG_DEFAULT();
+    slot_config.gpio_cs = SD_PIN_NUM_CS;
+    slot_config.host_id = host.slot;
+
+    // Use SPI mode to drive the SD card and mount the FATFS file system
+    ret = esp_vfs_fat_sdspi_mount(mount_point, &host, &slot_config, &mount_config, &card);
+
+    if (ret != ESP_OK)
+    {
+        if (ret == ESP_FAIL)
+        {
+            ESP_LOGE(TAG_SD, "Failed to mount filesystem. "
+                          "If you want the card to be formatted, set the EXAMPLE_FORMAT_IF_MOUNT_FAILED menuconfig option.");
+        }
+        else
+        {
+            ESP_LOGE(TAG_SD, "Failed to initialize the card (%s). "
+                          "Make sure SD card lines have pull-up resistors in place.",
+                     esp_err_to_name(ret));
+        }
+        return false;
+    }
+
+    // Print FAT FS size information
+    uint64_t bytes_total, bytes_free;
+    esp_vfs_fat_info(mount_point, &bytes_total, &bytes_free);
+    ESP_LOGI(TAG_SD, "FAT FS: %" PRIu64 " kB total, %" PRIu64 " kB free", bytes_total / 1024, bytes_free / 1024);
+
+    // The card has been initialized, print its properties
+    sdmmc_card_print_info(stdout, card);
+
+    // Progress Report
+    ESP_LOGI(TAG_SD, "Filesystem mounted successfully.");
+
+    return ret;
+}
+
+
+/**
+ * @brief Test file operations on the SD card
+ * @param None
+ * @retval esp_err_t
+ */
+esp_err_t sd_card_test_filesystem(void)
+{
+    char data[SD_MAX_CHAR_SIZE];
+
+    // Create a file
+    char file_path[SD_MAX_CHAR_SIZE];
+    snprintf(file_path, sizeof(file_path), "%s/test.txt", mount_point);
+    snprintf(data, sizeof(data), "Hello Mr Cui!, %s!\n", card->cid.name);
+    FILE *f = fopen(file_path, "w");
+    if (!f)
+    {
+        ESP_LOGE(TAG_SD, "Failed to create file");
+        return ESP_FAIL;
+    }
+    fprintf(f, "%s", data);
+    fclose(f);
+
+    ESP_LOGI(TAG_SD, "File created: %s", file_path);
+
+    // Read the file
+    f = fopen(file_path, "r");
+    if (!f)
+    {
+        ESP_LOGE(TAG_SD, "Failed to open file for reading");
+        return ESP_FAIL;
+    }
+    char line[SD_MAX_CHAR_SIZE];
+    fgets(line, sizeof(line), f);
+    fclose(f);
+
+    ESP_LOGI(TAG_SD, "File content: %s", line);
+
+    return ESP_OK;
+}
+
+/**
+ * @brief Unmount the File System and SPI Bus
+ * @param None
+ * @retval esp_err_t
+ */
+esp_err_t sd_card_unmount(void)
+{
+    esp_err_t ret;
+
+    ret = esp_vfs_fat_sdcard_unmount(mount_point, card);
+    if (ret != ESP_OK)
+    {
+        ESP_LOGE(TAG_SD, "Failed to unmount filesystem");
+        return ret;
+    }
+
+    // Unmount SPI Bus
+    sdmmc_host_t host = SDSPI_HOST_DEFAULT();
+    ret = spi_bus_free(host.slot);
+    if (ret != ESP_OK)
+    {
+        ESP_LOGE(TAG_SD, "Failed to free SPI bus");
+        return ret;
+    }
+
+    ESP_LOGI(TAG_SD, "Filesystem unmounted and SPI bus freed");
+
+    return ret;
+}
+```
+
+## main.c
+
+```c
+/**
+ * @file main.c
+ * @author SHUAIWEN CUI (SHUAIWEN001@e.ntu.edu.sg)
+ * @brief 
+ * @version 1.0
+ * @date 2024-11-20
+ * 
+ * @copyright Copyright (c) 2024
+ * 
+ */
+
+/* DEPENDENCIES */
+// ESP
+#include "esp_system.h" // ESP32 System
+#include "nvs_flash.h"  // ESP32 NVS
+#include "esp_chip_info.h" // ESP32 Chip Info
+#include "esp_psram.h" // ESP32 PSRAM
+#include "esp_flash.h" // ESP32 Flash
+#include "esp_log.h" // ESP32 Logging
+
+// BSP
+#include "led.h"
+#include "exit.h"
+#include "spi.h"
+#include "lcd.h"
+#include "tim.h"
+#include "esp_rtc.h"
+#include "spi_sdcard.h"
+
+/**
+ * @brief Entry point of the program
+ * @param None
+ * @retval None
+ */
+void app_main(void)
+{
+    esp_err_t ret;
+    uint32_t flash_size;
+    esp_chip_info_t chip_info;
+
+    // Initialize NVS
+    ret = nvs_flash_init();
+    if (ret == ESP_ERR_NVS_NO_FREE_PAGES || ret == ESP_ERR_NVS_NEW_VERSION_FOUND)
+    {
+        ESP_ERROR_CHECK(nvs_flash_erase()); // Erase if needed
+        ret = nvs_flash_init();
+    }
+
+    // Get FLASH size
+    esp_flash_get_size(NULL, &flash_size);
+    esp_chip_info(&chip_info);
+
+    // Display CPU core count
+    printf("CPU Cores: %d\n", chip_info.cores);
+
+    // Display FLASH size
+    printf("Flash size: %ld MB flash\n", flash_size / (1024 * 1024));
+
+    // Display PSRAM size
+    printf("PSRAM size: %d bytes\n", esp_psram_get_size());
+
+    // BSP Initialization
+    led_init();
+    exit_init();
+    spi2_init();
+    lcd_init();
+
+    // spiffs_test();                                                  /* Run SPIFFS test */
+    while (sd_card_init())                               /* SD card not detected */
+    {
+        lcd_show_string(0, 0, 200, 16, 16, "SD Card Error!", RED);
+        vTaskDelay(500);
+        lcd_show_string(0, 20, 200, 16, 16, "Please Check!", RED);
+        vTaskDelay(500);
+    }
+
+    // clean the screen
+    lcd_clear(WHITE);
+
+    lcd_show_string(0, 0, 200, 16, 16, "SD Initialized!", RED);
+
+    sd_card_test_filesystem();                                        /* Run SD card test */
+
+    lcd_show_string(0, 0, 200, 16, 16, "SD Tested CSW! ", RED);
+
+    // sd_card_unmount();
+
+    while (1)
+    {
+        led_toggle();
+        vTaskDelay(1000);
+    }
+}
+
+```
